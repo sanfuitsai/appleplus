@@ -1,2 +1,3 @@
 streamlit
 pygame
+pygame-ce
